@@ -2,37 +2,29 @@ public class MyDateTest
 {
   public static void main(String[] args)
   {
-    MyDate date = new MyDate(29, 10, 2001);
-    System.out.println(date);
+    System.out.println("\nConstructor and set");
+    MyDate date = new MyDate(1,2,2013);
+    System.out.println(date); //toString called auto
 
-    MyDate date2 = new MyDate(6,12,2006);
-    System.out.println(date2);
+    System.out.println("\nNumber of days in month");
+    date.set(27,2,2016);
+    System.out.println(date);
+    System.out.println(date.numberOfDaysInMonth(date.getMonth()));
 
-    date2 = date.copy();
-    System.out.println(date2);
+    System.out.println("\nYears Between");
+    MyDate testDate = new MyDate(28,02,2020);
+    System.out.println(date.yearsBetween(testDate));
 
+    System.out.println("\nCopy");
+    System.out.println(date.copy());
 
+    System.out.println("\nEquals");
+    System.out.println(date.equals(date.copy()));
 
-    /*
-    System.out.println(date);
-    date.stepForwardOneDay();
-    System.out.println(date);
-    date.stepForwardOneDay();
-    System.out.println(date);
+    System.out.println("\nTo Month Number");
+    System.out.println(MyDate.convertToMonthNumber("June"));
 
-    date.set(30,12,2016);
-    System.out.println(date);
-    date.stepForwardOneDay();
-    System.out.println(date);
-    date.stepForwardOneDay();
-    System.out.println(date);
-
-    date.set(27,2,2019);
-    System.out.println(date);
-    date.stepForwardOneDay();
-    System.out.println(date);
-    date.stepForwardOneDay();
-    System.out.println(date);
-    */
+    System.out.println("\nNow");
+    System.out.println(MyDate.now());
   }
 }

@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd3d5f00-9fb8-4245-a25b-26bb5900f1ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercise8_01/Exercise8_01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise8_01/src/Time.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise8_01/src/TimeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise8_02/Exercise8_02.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise8_02/src/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise8_02/src/PointTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise8_03/Exercise8_03.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise8_03/src/Clock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise8_03/src/ClockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/Elevator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/src/Elevator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevator/src/ElevatorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -53,17 +47,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ClockTest">
-    <configuration name="CarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CarTest" />
-      <module name="Exercise7_04" />
+  <component name="RunManager" selected="Application.ElevatorTest">
+    <configuration name="ClockTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClockTest" />
+      <module name="Exercise8_03" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClockTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ClockTest" />
-      <module name="Exercise8_03" />
+    <configuration name="ElevatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ElevatorTest" />
+      <module name="Elevator" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -91,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ElevatorTest" />
         <item itemvalue="Application.ClockTest" />
         <item itemvalue="Application.PointTest" />
         <item itemvalue="Application.TimeTest" />
         <item itemvalue="Application.MyDateTest" />
-        <item itemvalue="Application.CarTest" />
       </list>
     </recent_temporary>
   </component>

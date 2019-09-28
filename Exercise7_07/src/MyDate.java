@@ -60,12 +60,6 @@ public class MyDate
     this.day = day;
   }
 
-  //used only for converToMonthNumber, another option would be to overload set method from above
-  public void setMonth(int month)
-  {
-    this.month = month;
-  }
-
   public boolean isLeapYear()
   {
     if (year % 4 == 0 && (year % 100 != 0 || year % 400 == 0))
@@ -231,7 +225,7 @@ public class MyDate
     MyDate date = new MyDate();
     for (int i = 0; i < 12; i++)
     {
-      date.setMonth(i + 1);
+      date.set(0, i + 1, 0);
       if (monthName.equals(date.getMonthName()))
       {
         return i + 1;

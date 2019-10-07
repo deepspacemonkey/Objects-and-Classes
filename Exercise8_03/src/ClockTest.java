@@ -13,15 +13,18 @@ public class ClockTest
     time1.set12HourFormat();
     time1.set(14, 30, 45);
     System.out.println(time1);
-    /*
+
+
+
     Clock timer = new Clock(0);
+    timer.set12HourFormat();
     do
     {
       System.out.println(timer);
       timer.tic();
     } while (!timer.equals(new Clock(0)));
     System.out.println(timer);
-     */
+
 
   }
 }

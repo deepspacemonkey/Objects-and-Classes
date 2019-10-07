@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="fd3d5f00-9fb8-4245-a25b-26bb5900f1ab" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise8_03/src/ClockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise8_03/src/ClockTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise7_07/src/MyDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise7_07/src/MyDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise7_07/src/MyDateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise7_07/src/MyDateTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +45,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ClockTest">
+  <component name="RunManager" selected="Application.MyDateTest">
     <configuration name="ClockTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ClockTest" />
       <module name="Exercise8_03" />
@@ -82,11 +83,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyDateTest" />
         <item itemvalue="Application.ClockTest" />
         <item itemvalue="Application.ElevatorTest" />
         <item itemvalue="Application.PointTest" />
         <item itemvalue="Application.TimeTest" />
-        <item itemvalue="Application.MyDateTest" />
       </list>
     </recent_temporary>
   </component>

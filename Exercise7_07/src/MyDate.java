@@ -143,18 +143,19 @@ public class MyDate
   {
     MyDate currentDate = new MyDate(day, month, year);
     MyDate aux = other.copy();
+    MyDate theOther = other.copy();
 
     if (currentDate.isBefore(other))
     {
-      other = currentDate;
+      theOther = currentDate;
       currentDate = aux;
     }
     aux = null; //will be collected by garbage collector
 
     int dayCount = 0;
-    while (other.isBefore(currentDate))
+    while (theOther.isBefore(currentDate))
     {
-      other.stepForwardOneDay();
+      theOther.stepForwardOneDay();
       dayCount++;
     }
 

@@ -26,5 +26,11 @@ public class MyDateTest
 
     System.out.println("\nNow");
     System.out.println(MyDate.now());
+    System.out.println("\n\n\n");
+    MyDate date1 = new MyDate(10,10,1990);
+    MyDate date2 = new MyDate(20,10,1990);
+    System.out.println(date1.daysBetween(date2));
+    System.out.println(date1);
+    System.out.println(date2);
   }
 }

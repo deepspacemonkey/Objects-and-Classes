@@ -100,7 +100,7 @@ public class Clock
   public String toString()
   {
     return String
-        .format("%02d:%02d:%02d %s", is24HourFormat ? hour : hour % 13, minute,
+        .format("%02d:%02d:%02d %s", is24HourFormat ? hour : hour % 12, minute,
             second, is24HourFormat ? "" : (hour < 12 ? "AM" : "PM"));
   }
 }

@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd3d5f00-9fb8-4245-a25b-26bb5900f1ab" name="Default Changelist" comment="" />
+    <list default="true" id="fd3d5f00-9fb8-4245-a25b-26bb5900f1ab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Exercise9_01/Exercise9_01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise9_01/src/MyDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise9_01/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise9_01/src/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise9_02/Exercise9_02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise9_02/src/Job.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise9_02/src/JobTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise9_02/src/MyDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise9_02/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise9_03/Exercise9_03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise9_03/src/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise9_03/src/PointTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise9_04/Exercise9_04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise9_04/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise9_04/src/CircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise9_04/src/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise9_05/Exercise9_05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise9_05/src/Line.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise9_05/src/LineTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise9_05/src/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,9 +48,20 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Exercise9_03/src" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bujor\OneDrive - ViaUC\Skrivebord\SDJ1\Objects and Classes\Exercise9_03\src" />
+      <recent name="C:\Users\bujor\OneDrive - ViaUC\Skrivebord\SDJ1\Objects and Classes\Exercise9_02\src" />
+      <recent name="C:\Users\bujor\OneDrive - ViaUC\Skrivebord\SDJ1\Objects and Classes\Exercise9_01\src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -41,49 +75,49 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MyDateTest">
-    <configuration name="ClockTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ClockTest" />
-      <module name="Exercise8_03" />
+  <component name="RunManager" selected="Application.LineTest">
+    <configuration name="CircleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CircleTest" />
+      <module name="Exercise9_04" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ElevatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ElevatorTest" />
-      <module name="Elevator" />
+    <configuration name="JobTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JobTest" />
+      <module name="Exercise9_02" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyDateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyDateTest" />
-      <module name="Exercise7_07" />
+    <configuration name="LineTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LineTest" />
+      <module name="Exercise9_05" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PersonTest" />
+      <module name="Exercise9_01" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="PointTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PointTest" />
-      <module name="Exercise8_02" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TimeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TimeTest" />
-      <module name="Exercise8_01" />
+      <module name="Exercise9_03" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyDateTest" />
-        <item itemvalue="Application.ClockTest" />
-        <item itemvalue="Application.ElevatorTest" />
+        <item itemvalue="Application.LineTest" />
+        <item itemvalue="Application.CircleTest" />
         <item itemvalue="Application.PointTest" />
-        <item itemvalue="Application.TimeTest" />
+        <item itemvalue="Application.JobTest" />
+        <item itemvalue="Application.PersonTest" />
       </list>
     </recent_temporary>
   </component>

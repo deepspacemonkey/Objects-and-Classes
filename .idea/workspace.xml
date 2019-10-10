@@ -2,26 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd3d5f00-9fb8-4245-a25b-26bb5900f1ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercise9_01/Exercise9_01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise9_01/src/MyDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise9_01/src/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise9_01/src/PersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise9_02/Exercise9_02.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise9_02/src/Job.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise9_02/src/JobTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise9_02/src/MyDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise9_02/src/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise9_03/Exercise9_03.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise9_03/src/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise9_03/src/PointTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise9_04/Exercise9_04.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise9_04/src/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise9_04/src/CircleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise9_04/src/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise9_05/Exercise9_05.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise9_05/src/Line.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise9_05/src/LineTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise9_05/src/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise10_1to1/Exercise10_1to1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise10_1to1/src/Bed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise10_1to1/src/Guest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise10_1to1/src/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise10_1to1/src/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise10_1toM/Exercise10_1toM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise10_1toM/src/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise10_1toM/src/Notebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise10_2_1to1/Exercise10_2_1to1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise10_2_1to1/src/Apartment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise10_2_1to1/src/Tenant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise10_2_1to1/src/Tester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -75,17 +68,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LineTest">
+  <component name="RunManager" selected="Application.Tester (1)">
     <configuration name="CircleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CircleTest" />
       <module name="Exercise9_04" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JobTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JobTest" />
-      <module name="Exercise9_02" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -97,13 +83,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PersonTest" />
-      <module name="Exercise9_01" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="PointTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PointTest" />
       <module name="Exercise9_03" />
@@ -111,13 +90,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Tester (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tester" />
+      <module name="Exercise10_2_1to1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tester" />
+      <module name="Exercise10_1to1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Tester (1)" />
+        <item itemvalue="Application.Tester" />
         <item itemvalue="Application.LineTest" />
         <item itemvalue="Application.CircleTest" />
         <item itemvalue="Application.PointTest" />
-        <item itemvalue="Application.JobTest" />
-        <item itemvalue="Application.PersonTest" />
       </list>
     </recent_temporary>
   </component>

@@ -16,7 +16,7 @@ public class Notebook
     return numberOfNotes;
   }
 
-  public Note getNotes(int index)
+  public Note getNote(int index)
   {
     return notes[index].copy();
   }
@@ -56,7 +56,7 @@ public class Notebook
 
   public void removeNote(int index)
   {
-    for (int i = index; index < numberOfNotes - 1; i++)
+    for (int i = index; i < numberOfNotes - 1; i++)
     {
       notes[i] = notes[i + 1];
     }
@@ -72,8 +72,8 @@ public class Notebook
   public int getNumberOfHighPriorityNotes()
   {
     int counter = 0;
-    for (Note note : notes)
-      if (note.isHighPriority())
+    for (int i = 0; i < numberOfNotes; i++)
+      if (notes[i].isHighPriority())
         counter++;
     return counter;
   }
@@ -83,9 +83,9 @@ public class Notebook
     int numberOfNotes = getNumberOfHighPriorityNotes();
     Note[] highPriorityNotes = new Note[numberOfNotes];
     int counter = 0;
-    for (Note note : notes)
-      if (note.isHighPriority())
-        highPriorityNotes[counter] = note.copy();
+    for (int i = 0; i < numberOfNotes; i++)
+      if (notes[i].isHighPriority())
+        highPriorityNotes[counter] = notes[i].copy();
     return highPriorityNotes;
   }
 

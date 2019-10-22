@@ -3,9 +3,17 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Elevator/Elevator.iml" filepath="$PROJECT_DIR$/Elevator/Elevator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise10_02_1toM/Exercise10_02_1toM.iml" filepath="$PROJECT_DIR$/Exercise10_02_1toM/Exercise10_02_1toM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise10_03_1toM/Exercise10_03_1toM.iml" filepath="$PROJECT_DIR$/Exercise10_03_1toM/Exercise10_03_1toM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise10_04_1toM/Exercise10_04_1toM.iml" filepath="$PROJECT_DIR$/Exercise10_04_1toM/Exercise10_04_1toM.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercise10_1to1/Exercise10_1to1.iml" filepath="$PROJECT_DIR$/Exercise10_1to1/Exercise10_1to1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercise10_1toM/Exercise10_1toM.iml" filepath="$PROJECT_DIR$/Exercise10_1toM/Exercise10_1toM.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercise10_2_1to1/Exercise10_2_1to1.iml" filepath="$PROJECT_DIR$/Exercise10_2_1to1/Exercise10_2_1to1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise11_1/Exercise11_1.iml" filepath="$PROJECT_DIR$/Exercise11_1/Exercise11_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise11_2/Exercise11_2.iml" filepath="$PROJECT_DIR$/Exercise11_2/Exercise11_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise11_3/Exercise11_3.iml" filepath="$PROJECT_DIR$/Exercise11_3/Exercise11_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise11_4/Exercise11_4.iml" filepath="$PROJECT_DIR$/Exercise11_4/Exercise11_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JavaBasics/Exercise4_07/Exercise4_07.iml" filepath="$PROJECT_DIR$/../JavaBasics/Exercise4_07/Exercise4_07.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercise7_01/Exercise7_01.iml" filepath="$PROJECT_DIR$/Exercise7_01/Exercise7_01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercise7_02/Exercise7_02.iml" filepath="$PROJECT_DIR$/Exercise7_02/Exercise7_02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercise7_04/Exercise7_04.iml" filepath="$PROJECT_DIR$/Exercise7_04/Exercise7_04.iml" />

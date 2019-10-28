@@ -2,45 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd3d5f00-9fb8-4245-a25b-26bb5900f1ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercise10_02_1toM/Exercise10_02_1toM.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise10_02_1toM/src/Notebook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise10_02_1toM/src/PriorityNote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise10_02_1toM/src/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise10_03_1toM/Exercise10_03_1toM.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise10_03_1toM/src/Grade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise10_03_1toM/src/GradeList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise10_03_1toM/src/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise10_04_1toM/Exercise10_04_1toM.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise10_04_1toM/src/Grade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise10_04_1toM/src/GradeList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise10_04_1toM/src/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise10_1toM/src/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise11_1/Exercise11_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise11_1/src/Brain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise11_1/src/MyDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise11_1/src/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise11_1/src/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise11_2/Exercise11_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise11_2/src/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise11_2/src/Date.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise11_2/src/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise11_2/src/ServiceBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise11_2/src/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise11_3/Exercise11_3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise11_3/src/CD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise11_3/src/CDTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise11_3/src/CDTrack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise11_3/src/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise11_3/src/Time.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise11_4/Exercise11_4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise11_4/src/Bed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise11_4/src/Guest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise11_4/src/Hotel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise11_4/src/Room.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise11_4/src/Tester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise10_1toM/src/Notebook.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise10_1toM/src/Notebook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise11_4/src/Hotel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise11_4/src/Hotel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise11_4/src/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise11_4/src/Tester.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

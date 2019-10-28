@@ -19,6 +19,7 @@ public class Tester
     Hotel hilton = new Hotel("Hilton", rooms);
 
     Tester.printRooms(hilton.getAllAvailableRooms("Single"));
+    System.out.println();
     Tester.printRooms(hilton.getAllAvailableRooms("King size"));
   }
 }

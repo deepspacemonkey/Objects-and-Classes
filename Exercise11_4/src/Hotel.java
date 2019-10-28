@@ -53,7 +53,7 @@ public class Hotel
     ArrayList<Room> emptyRooms = new ArrayList<Room>();
     for (Room room : rooms)
     {
-      if (!room.isOccupied())
+      if (!room.isOccupied() && bedType.equals(room.getBedType()))
         emptyRooms.add(room);
     }
     return emptyRooms.toArray(new Room[emptyRooms.size()]);

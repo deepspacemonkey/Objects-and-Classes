@@ -15,7 +15,7 @@ public class Van extends Car
 
   public String toString()
   {
-    return String.format("%s | Maximum load: %d", super.toString(), maxLoad);
+    return String.format("%s | Ma: %d", super.toString(), maxLoad);
   }
 
   public boolean equals(Object obj)

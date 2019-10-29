@@ -2,25 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd3d5f00-9fb8-4245-a25b-26bb5900f1ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercise11_5/Exercise11_5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise11_5/src/Apartment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise11_5/src/ApartmentComplex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise11_5/src/MyDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise11_5/src/Tenant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise11_5/src/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise13_1/Exercise13_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise13_1/src/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise13_1/src/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise13_1/src/Cow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise13_1/src/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise13_1/src/Goat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise13_3/src/Bicycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise13_3/src/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise13_3/src/SportsCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise13_3/src/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise13_3/src/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise13_4/Exercise13_4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise13_4/UML.asta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise13_4/UML.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise13_4/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise13_4/src/JobBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise13_4/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise13_4/src/Secretary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise13_4/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise13_4/src/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise13_4/src/Tester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise13_3/src/Van.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise13_3/src/Van.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,10 +38,11 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="jdk.selected.PLUGIN_MODULE" value="IntelliJ IDEA Community Edition IC-192.6817.14" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Exercise11_4/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Exercise13_4" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -80,7 +75,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Tester (1)">
+  <component name="RunManager" selected="Application.Tester (4)">
     <configuration name="CDTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CDTester" />
       <module name="Exercise11_3" />
@@ -102,9 +97,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tester (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Tester (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Tester" />
-      <module name="Exercise11_3" />
+      <module name="Exercise13_4" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -127,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Tester (4)" />
         <item itemvalue="Application.Tester (1)" />
         <item itemvalue="Application.Tester (2)" />
         <item itemvalue="Application.Tester" />
         <item itemvalue="Application.CDTester" />
-        <item itemvalue="Application.Tester (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -160,5 +155,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

@@ -20,9 +20,9 @@ public class SportsCar extends Car
 
   public boolean equals(Object obj)
   {
-    if(!(obj instanceof Van))
+    if(!(obj instanceof SportsCar))
       return false;
-    Van other = (Van) obj;
+    SportsCar other = (SportsCar) obj;
     return super.equals(other) && maxVelocity == other.maxVelocity;
   }
 }

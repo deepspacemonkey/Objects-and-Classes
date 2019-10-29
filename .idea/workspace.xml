@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd3d5f00-9fb8-4245-a25b-26bb5900f1ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercise13_4/Exercise13_4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise13_4/UML.asta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise13_4/UML.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise13_4/src/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise13_4/src/JobBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise13_4/src/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise13_4/src/Secretary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise13_4/src/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise13_4/src/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise13_4/src/Tester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise13_3/src/Van.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise13_3/src/Van.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise13_3/src/SportsCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise13_3/src/SportsCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise13_3/src/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise13_3/src/Tester.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +65,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Tester (4)">
+  <component name="RunManager" selected="Application.Tester (1)">
     <configuration name="CDTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CDTester" />
       <module name="Exercise11_3" />
@@ -122,8 +112,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Tester (4)" />
         <item itemvalue="Application.Tester (1)" />
+        <item itemvalue="Application.Tester (4)" />
         <item itemvalue="Application.Tester (2)" />
         <item itemvalue="Application.Tester" />
         <item itemvalue="Application.CDTester" />

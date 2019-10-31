@@ -2,9 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd3d5f00-9fb8-4245-a25b-26bb5900f1ab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Exercise14_1/Exercise14_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise14_1/src/Apartment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise14_1/src/Home.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise14_1/src/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise14_1/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise14_1/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise14_2/Exercise14_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise14_2/src/Ball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise14_2/src/Football.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise14_2/src/Handball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise14_2/src/Lego.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise14_2/src/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise14_2/src/Toy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise14_3/Exercise14_3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise14_3/src/ClubMember.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise14_3/src/Junior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise14_3/src/OldBoys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise14_3/src/Senior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise14_3/src/Tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise13_3/src/SportsCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise13_3/src/SportsCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise13_3/src/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise13_3/src/Tester.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,18 +57,19 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bujor\OneDrive - ViaUC\Skrivebord\SDJ1\Objects and Classes" />
+      <recent name="C:\Users\bujor\OneDrive - ViaUC\Skrivebord\SDJ1\Objects and Classes\Exercise11_3\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\bujor\OneDrive - ViaUC\Skrivebord\SDJ1\Objects and Classes\Exercise11_4\src" />
       <recent name="C:\Users\bujor\OneDrive - ViaUC\Skrivebord\SDJ1\Objects and Classes\Exercise11_3" />
       <recent name="C:\Users\bujor\OneDrive - ViaUC\Skrivebord\SDJ1\Objects and Classes" />
       <recent name="C:\Users\bujor\OneDrive - ViaUC\Skrivebord\SDJ1\Objects and Classes\Exercise10_02_1toM\src" />
       <recent name="C:\Users\bujor\OneDrive - ViaUC\Skrivebord\SDJ1\Objects and Classes\Exercise9_03\src" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\bujor\OneDrive - ViaUC\Skrivebord\SDJ1\Objects and Classes\Exercise11_3\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -65,10 +84,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Tester (1)">
-    <configuration name="CDTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CDTester" />
-      <module name="Exercise11_3" />
+  <component name="RunManager" selected="Application.Tester">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="Exercise14_1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -80,9 +99,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tester (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Tester (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Tester" />
-      <module name="Exercise11_5" />
+      <module name="Exercise14_2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -96,7 +115,7 @@
     </configuration>
     <configuration name="Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Tester" />
-      <module name="Exercise11_4" />
+      <module name="Exercise14_3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -112,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Tester" />
+        <item itemvalue="Application.Tester (3)" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Tester (1)" />
         <item itemvalue="Application.Tester (4)" />
-        <item itemvalue="Application.Tester (2)" />
-        <item itemvalue="Application.Tester" />
-        <item itemvalue="Application.CDTester" />
       </list>
     </recent_temporary>
   </component>

@@ -2,25 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd3d5f00-9fb8-4245-a25b-26bb5900f1ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercise14_1/Exercise14_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise14_1/src/Apartment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise14_1/src/Home.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise14_1/src/House.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise14_1/src/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise14_1/src/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise14_2/Exercise14_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise14_2/src/Ball.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise14_2/src/Football.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise14_2/src/Handball.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise14_2/src/Lego.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise14_2/src/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise14_2/src/Toy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise14_3/Exercise14_3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise14_3/src/ClubMember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise14_3/src/Junior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise14_3/src/OldBoys.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise14_3/src/Senior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise14_3/src/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceEX/InterfaceEX.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceEX/src/Beverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceEX/src/Establishment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceEX/src/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceEX/src/Pub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceEX/src/Restaurant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceEX/src/src.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -50,7 +38,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="jdk.selected.PLUGIN_MODULE" value="IntelliJ IDEA Community Edition IC-192.6817.14" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Exercise13_4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jfxTest" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />

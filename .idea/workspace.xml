@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd3d5f00-9fb8-4245-a25b-26bb5900f1ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/InterfaceEX/InterfaceEX.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InterfaceEX/src/Beverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InterfaceEX/src/Establishment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InterfaceEX/src/Food.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InterfaceEX/src/Pub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InterfaceEX/src/Restaurant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InterfaceEX/src/src.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise15_1/Exercise15_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise15_1/src/errors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise15_2/Exercise15_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise15_2/src/errors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise15_3/Exercise15_3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise15_3/src/calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -38,7 +37,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="jdk.selected.PLUGIN_MODULE" value="IntelliJ IDEA Community Edition IC-192.6817.14" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jfxTest" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -72,21 +71,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Tester">
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
-      <module name="Exercise14_1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Tester (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tester" />
-      <module name="Exercise13_3" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.calculator">
     <configuration name="Tester (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Tester" />
       <module name="Exercise14_2" />
@@ -94,16 +79,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tester (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Tester" />
-      <module name="Exercise13_4" />
+      <module name="Exercise14_3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tester" />
-      <module name="Exercise14_3" />
+    <configuration name="calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="calculator" />
+      <module name="Exercise15_3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="errors (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="errors" />
+      <module name="Exercise15_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="errors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="errors" />
+      <module name="Exercise15_1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -119,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.calculator" />
+        <item itemvalue="Application.errors (1)" />
+        <item itemvalue="Application.errors" />
         <item itemvalue="Application.Tester" />
         <item itemvalue="Application.Tester (3)" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Tester (1)" />
-        <item itemvalue="Application.Tester (4)" />
       </list>
     </recent_temporary>
   </component>

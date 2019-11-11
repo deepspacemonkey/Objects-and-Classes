@@ -2,13 +2,20 @@ import java.util.*;
 
 public class calculator {
 
+    public static int getIndexOf(int[] array, int number) throws Exception {
+        for(int i = 0; i < array.length; i++)
+            if (array[i] == number)
+                return i;
+            throw new Exception("This element is not part of the array");
+    }
+
     public static int pickNumber(int[] array, Scanner input){
         boolean valid;
         int x = 0;
         do {
             valid = true;
             try {
-                x = array[input.nextInt()];
+                x = array[getIndexOf(array, input.nextInt())];
             } catch (InputMismatchException e) {
                 System.out.println("Invalid input, try again");
                 valid = false;
@@ -18,6 +25,9 @@ public class calculator {
                 valid = false;
             } catch (NullPointerException e) {
                 System.out.println("Element is null, try again");
+                valid = false;
+            } catch (Exception e){
+                System.out.println("Element not in array, try again");
                 valid = false;
             }
         } while (!valid);

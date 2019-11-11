@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd3d5f00-9fb8-4245-a25b-26bb5900f1ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercise15_4/Exercise15_4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise15_4/src/Grade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise15_4/src/GradeList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise15_4/src/tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise15_5/src/PoorFileReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise15_5/src/tester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise15_3/src/calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise15_3/src/calculator.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +67,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.tester (1)">
+  <component name="RunManager" selected="Application.calculator">
     <configuration name="calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="calculator" />
       <module name="Exercise15_3" />
@@ -121,9 +114,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.calculator" />
         <item itemvalue="Application.tester (1)" />
         <item itemvalue="Application.tester" />
-        <item itemvalue="Application.calculator" />
         <item itemvalue="Application.errors (1)" />
         <item itemvalue="Application.errors" />
       </list>

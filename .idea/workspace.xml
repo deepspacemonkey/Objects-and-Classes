@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fd3d5f00-9fb8-4245-a25b-26bb5900f1ab" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise15_3/src/calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise15_3/src/calculator.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,20 +38,20 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bujor\OneDrive - ViaUC\Skrivebord\SDJ1\Objects and Classes\Exercise15_5\src" />
+      <recent name="C:\Users\bujor\OneDrive - ViaUC\Skrivebord\SDJ1\Objects and Classes" />
+      <recent name="C:\Users\bujor\OneDrive - ViaUC\Skrivebord\SDJ1\Objects and Classes\Exercise11_3\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\bujor\OneDrive - ViaUC\Skrivebord\SDJ1\Objects and Classes\Exercise11_4\src" />
       <recent name="C:\Users\bujor\OneDrive - ViaUC\Skrivebord\SDJ1\Objects and Classes\Exercise11_3" />
       <recent name="C:\Users\bujor\OneDrive - ViaUC\Skrivebord\SDJ1\Objects and Classes" />
       <recent name="C:\Users\bujor\OneDrive - ViaUC\Skrivebord\SDJ1\Objects and Classes\Exercise10_02_1toM\src" />
       <recent name="C:\Users\bujor\OneDrive - ViaUC\Skrivebord\SDJ1\Objects and Classes\Exercise9_03\src" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\bujor\OneDrive - ViaUC\Skrivebord\SDJ1\Objects and Classes\Exercise15_5\src" />
-      <recent name="C:\Users\bujor\OneDrive - ViaUC\Skrivebord\SDJ1\Objects and Classes" />
-      <recent name="C:\Users\bujor\OneDrive - ViaUC\Skrivebord\SDJ1\Objects and Classes\Exercise11_3\src" />
     </key>
   </component>
   <component name="RunDashboard">

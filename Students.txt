@@ -1,0 +1,35 @@
+2, 225859, Arnas Kromelis, LT, 13, 5, 95
+2, 224172, Daniel Bahrin, RO, 9, 7, 85
+2, 224183, Jonas Bivainis, LT, 14, 9, 92
+2, 204301, Stefan Abildskou Laursen Jensen, DK, 28, 8, 88
+3, 224218, Dalila Iulia Dimache, RO, 21, 10, 95
+3, 224211, Dayana Dancheva , BG, 6, 11, 95
+3, 224355, Kalin Mitkov, BG, 2, 5, 94
+3, 224452, Mortaza Suhrabi, DK, 19, 2, 94
+4, 224375, Alin Stefan Olaru, RO, 19, 3, 95
+4, 225933, Brian Madsen, DK, 12, 12, 92
+4, 224216, Gabriel Diaconescu, RO, 28, 10, 82
+4, 208234, Trifon Kamenov, BG, 9, 3, 89
+5, 224187, Dorin Botan, RO, 13, 10, 95
+5, 224407, Dumitru Racicovschii, RO, 24, 2, 95
+5, 224273, Hristina Georgieva Hristova, BG, 21, 12, 95
+5, 224357, Lucia Mokrickova, SK, 4, 12, 95
+6, 224277, Dan-Andrei Iorga, RO, 24, 7, 94
+6, 224482, David Michael Weis, SK, 5, 6, 94
+6, 224342, Erik Markevic, LV, 28, 4, 95
+6, 203191, Lamiita Traista, RO, 5, 2, 95
+7, 224474, Balint Bence Varga, HU, 21, 9, 93
+7, 224287, Dan Jalba, RO, 29, 7, 95
+7, 224174, Daniela Balanov, RO, 15, 6, 94
+7, 224215, Mihaela Diaconescu, RO, 7, 11, 85
+7, 224319, Silvija Krupaviciute, LT, 24, 12, 93
+8, 224161, Arturs Ansons, LV, 9, 3, 84
+8, 224382, David Papp, HU, 15, 9, 87
+8, 224301, Gytautas Karalius, LT, 1, 9, 95
+8, 224321, Gytis Kuosaitis, LT, 10, 5, 95
+1, 224339, Branislav Machava, SK, 24, 8, 91
+1, 224312, Kamen Nikolaev Kolev, BG, 3, 6, 95
+1, 224352, Laurynas Mileris, LT, 13, 1, 95
+1, 224194, Sarunas Burba, LT, 30, 5, 99
+
+

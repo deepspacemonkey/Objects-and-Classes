@@ -1,12 +1,14 @@
+import ValueNotInArray.ValueNotInArray;
+
 import java.util.*;
 
 public class calculator {
 
-    public static int getIndexOf(int[] array, int number) throws Exception {
+    public static int getIndexOf(int[] array, int number) {
         for(int i = 0; i < array.length; i++)
             if (array[i] == number)
                 return i;
-            throw new Exception("This element is not part of the array");
+            throw new ValueNotInArray("This element is not part of the array");
     }
 
     public static int pickNumber(int[] array, Scanner input){

@@ -20,7 +20,7 @@ public class errors {
                 catch (InputMismatchException e)
                 {
                     System.out.println("The input is not an integer in the range 10-99, try again");
-                    input.nextLine();
+                    input.nextLine(); //in case of string input, clear new line
                     valid = false;
                 }
             } while (!valid);

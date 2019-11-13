@@ -28,7 +28,7 @@ public class calculator {
             } catch (NullPointerException e) {
                 System.out.println("Element is null, try again");
                 valid = false;
-            } catch (Exception e){
+            } catch (ValueNotInArray e){
                 System.out.println("Element not in array, try again");
                 valid = false;
             }

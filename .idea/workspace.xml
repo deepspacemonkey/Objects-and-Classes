@@ -2,33 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd3d5f00-9fb8-4245-a25b-26bb5900f1ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercise15_3/src/ValueNotInArray/ValueNotInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise16_1/Exercise16_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise16_1/src/Files.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise16_2/Exercise16_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise16_2/src/getfromfile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise16_3/src/MyDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise16_3/src/MyStudentFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise16_3/src/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise16_3/src/StudentFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise16_3/src/StudentList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise16_3/src/tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Group1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Group2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Group3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Group4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Group5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Group6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Group7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Group8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Students.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudentsOut.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testfile.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise15_1/src/errors.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise15_1/src/errors.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Exercise15_3/src/calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise15_3/src/calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercise15_2/errors.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercise15_2/errors.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise16_3/src/tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise16_3/src/tester.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

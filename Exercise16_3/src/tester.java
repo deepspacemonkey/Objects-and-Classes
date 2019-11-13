@@ -10,7 +10,7 @@ public class tester {
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         } catch (ParseException e) {
-            System.out.println("Data incomplete");
+            System.out.println("Data incomplete/wrong");
         }
         if (students != null) {
             System.out.println(students);

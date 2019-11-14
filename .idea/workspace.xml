@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd3d5f00-9fb8-4245-a25b-26bb5900f1ab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Exercise17_4/Exercise17_4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise17_4/src/BinaryFileManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise17_4/src/StoreStuff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise17_4/src/TextFileManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise17_4/src/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,7 +37,7 @@
     <property name="create.test.in.the.same.root" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="13" />
     <property name="jdk.selected.PLUGIN_MODULE" value="IntelliJ IDEA Community Edition IC-192.6817.14" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Exercise17_3/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Exercise17_4/src" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -45,11 +51,11 @@
       <recent name="C:\Users\bujor\OneDrive - ViaUC\Skrivebord\SDJ1\Objects and Classes\Exercise11_3\src" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bujor\OneDrive - ViaUC\Skrivebord\SDJ1\Objects and Classes\Exercise17_4\src" />
       <recent name="C:\Users\bujor\OneDrive - ViaUC\Skrivebord\SDJ1\Objects and Classes\Exercise17_3\src" />
       <recent name="C:\Users\bujor\OneDrive - ViaUC\Skrivebord\SDJ1\Objects and Classes\Exercise11_4\src" />
       <recent name="C:\Users\bujor\OneDrive - ViaUC\Skrivebord\SDJ1\Objects and Classes\Exercise11_3" />
       <recent name="C:\Users\bujor\OneDrive - ViaUC\Skrivebord\SDJ1\Objects and Classes" />
-      <recent name="C:\Users\bujor\OneDrive - ViaUC\Skrivebord\SDJ1\Objects and Classes\Exercise10_02_1toM\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
@@ -70,7 +76,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.tester">
+  <component name="RunManager" selected="Application.test">
     <configuration name="Files (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Files" />
       <module name="Exercise17_1" />
@@ -78,16 +84,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="errors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="errors" />
-      <module name="Exercise15_2" />
+    <configuration name="getfromfile (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="getfromfile" />
+      <module name="Exercise17_2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="getfromfile (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="getfromfile" />
-      <module name="Exercise17_2" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="Exercise17_4" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -117,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.test" />
         <item itemvalue="Application.tester" />
         <item itemvalue="Application.getfromfile (1)" />
         <item itemvalue="Application.Files (1)" />
         <item itemvalue="Application.tester (2)" />
-        <item itemvalue="Application.errors" />
       </list>
     </recent_temporary>
   </component>

@@ -2,28 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd3d5f00-9fb8-4245-a25b-26bb5900f1ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercise17_1/Exercise17_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise17_1/src/Files.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise17_2/Exercise17_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise17_2/src/getfromfile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise17_3/Exercise17_3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise17_3/src/MyDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise17_3/src/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise17_3/src/StudentFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise17_3/src/StudentList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise17_3/src/tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/students.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Group1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Group2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Group3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Group4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Group5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Group6.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Group7.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Group8.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

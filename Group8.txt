@@ -1,4 +1,0 @@
-8, 224161, Arturs Ansons, LV, 09/03/84
-8, 224382, David Papp, HU, 15/09/87
-8, 224301, Gytautas Karalius, LT, 01/09/95
-8, 224321, Gytis Kuosaitis, LT, 10/05/95

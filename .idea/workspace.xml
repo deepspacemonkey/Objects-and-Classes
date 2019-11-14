@@ -2,9 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd3d5f00-9fb8-4245-a25b-26bb5900f1ab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Exercise17_1/Exercise17_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise17_1/src/Files.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise17_2/Exercise17_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise17_2/src/getfromfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise17_3/Exercise17_3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise17_3/src/MyDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise17_3/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise17_3/src/StudentFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise17_3/src/StudentList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise17_3/src/tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/students.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise15_3/src/calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise15_3/src/calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise16_3/src/tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise16_3/src/tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Group8.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,31 +52,31 @@
     <property name="create.test.in.the.same.root" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="13" />
     <property name="jdk.selected.PLUGIN_MODULE" value="IntelliJ IDEA Community Edition IC-192.6817.14" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Exercise17_3/src" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="ValueNotInArray" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\bujor\OneDrive - ViaUC\Skrivebord\SDJ1\Objects and Classes\Exercise11_4\src" />
-      <recent name="C:\Users\bujor\OneDrive - ViaUC\Skrivebord\SDJ1\Objects and Classes\Exercise11_3" />
-      <recent name="C:\Users\bujor\OneDrive - ViaUC\Skrivebord\SDJ1\Objects and Classes" />
-      <recent name="C:\Users\bujor\OneDrive - ViaUC\Skrivebord\SDJ1\Objects and Classes\Exercise10_02_1toM\src" />
-      <recent name="C:\Users\bujor\OneDrive - ViaUC\Skrivebord\SDJ1\Objects and Classes\Exercise9_03\src" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\bujor\OneDrive - ViaUC\Skrivebord\SDJ1\Objects and Classes\Exercise16_3\src" />
       <recent name="C:\Users\bujor\OneDrive - ViaUC\Skrivebord\SDJ1\Objects and Classes" />
       <recent name="C:\Users\bujor\OneDrive - ViaUC\Skrivebord\SDJ1\Objects and Classes\Exercise15_5\src" />
       <recent name="C:\Users\bujor\OneDrive - ViaUC\Skrivebord\SDJ1\Objects and Classes\Exercise11_3\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bujor\OneDrive - ViaUC\Skrivebord\SDJ1\Objects and Classes\Exercise17_3\src" />
+      <recent name="C:\Users\bujor\OneDrive - ViaUC\Skrivebord\SDJ1\Objects and Classes\Exercise11_4\src" />
+      <recent name="C:\Users\bujor\OneDrive - ViaUC\Skrivebord\SDJ1\Objects and Classes\Exercise11_3" />
+      <recent name="C:\Users\bujor\OneDrive - ViaUC\Skrivebord\SDJ1\Objects and Classes" />
+      <recent name="C:\Users\bujor\OneDrive - ViaUC\Skrivebord\SDJ1\Objects and Classes\Exercise10_02_1toM\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ValueNotInArray" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -72,17 +91,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.tester (2)">
-    <configuration name="Files" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.tester">
+    <configuration name="Files (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Files" />
-      <module name="Exercise16_1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="calculator" />
-      <module name="Exercise15_3" />
+      <module name="Exercise17_1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -94,9 +106,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="getfromfile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="getfromfile (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="getfromfile" />
-      <module name="Exercise16_2" />
+      <module name="Exercise17_2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -104,6 +116,13 @@
     <configuration name="tester (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tester" />
       <module name="Exercise16_3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tester" />
+      <module name="Exercise17_3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -119,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.tester" />
+        <item itemvalue="Application.getfromfile (1)" />
+        <item itemvalue="Application.Files (1)" />
         <item itemvalue="Application.tester (2)" />
         <item itemvalue="Application.errors" />
-        <item itemvalue="Application.getfromfile" />
-        <item itemvalue="Application.Files" />
-        <item itemvalue="Application.calculator" />
       </list>
     </recent_temporary>
   </component>

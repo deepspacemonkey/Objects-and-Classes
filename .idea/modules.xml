@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BinaryFilesTest/BinaryFilesTest.iml" filepath="$PROJECT_DIR$/BinaryFilesTest/BinaryFilesTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/Elevator/Elevator.iml" filepath="$PROJECT_DIR$/Elevator/Elevator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercise10_02_1toM/Exercise10_02_1toM.iml" filepath="$PROJECT_DIR$/Exercise10_02_1toM/Exercise10_02_1toM.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercise10_03_1toM/Exercise10_03_1toM.iml" filepath="$PROJECT_DIR$/Exercise10_03_1toM/Exercise10_03_1toM.iml" />

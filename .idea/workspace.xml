@@ -2,6 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd3d5f00-9fb8-4245-a25b-26bb5900f1ab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/BinaryFilesTest/.idea/BinaryFilesTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryFilesTest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryFilesTest/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryFilesTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryFilesTest/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryFilesTest/BinaryFilesTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryFilesTest/src/Container.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryFilesTest/src/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryFilesTest/src/Exam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryFilesTest/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryFilesTest/src/StudentList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryFilesTest/src/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binCourse.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binExam.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binStudents.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,14 +53,11 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\bujor\OneDrive - ViaUC\Skrivebord\SDJ1\Objects and Classes\Exercise16_3\src" />
-      <recent name="C:\Users\bujor\OneDrive - ViaUC\Skrivebord\SDJ1\Objects and Classes" />
-      <recent name="C:\Users\bujor\OneDrive - ViaUC\Skrivebord\SDJ1\Objects and Classes\Exercise15_5\src" />
-      <recent name="C:\Users\bujor\OneDrive - ViaUC\Skrivebord\SDJ1\Objects and Classes\Exercise11_3\src" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ValueNotInArray" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\bujor\OneDrive - ViaUC\Skrivebord\SDJ1\Objects and Classes\Exercise17_4\src" />
@@ -54,8 +69,11 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="ValueNotInArray" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bujor\OneDrive - ViaUC\Skrivebord\SDJ1\Objects and Classes\Exercise16_3\src" />
+      <recent name="C:\Users\bujor\OneDrive - ViaUC\Skrivebord\SDJ1\Objects and Classes" />
+      <recent name="C:\Users\bujor\OneDrive - ViaUC\Skrivebord\SDJ1\Objects and Classes\Exercise15_5\src" />
+      <recent name="C:\Users\bujor\OneDrive - ViaUC\Skrivebord\SDJ1\Objects and Classes\Exercise11_3\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -70,10 +88,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.test">
+  <component name="RunManager" selected="Application.Tester">
     <configuration name="Files (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Files" />
       <module name="Exercise17_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tester" />
+      <module name="BinaryFilesTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -88,13 +113,6 @@
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test" />
       <module name="Exercise17_4" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="tester (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tester" />
-      <module name="Exercise16_3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -117,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Tester" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.tester" />
         <item itemvalue="Application.getfromfile (1)" />
         <item itemvalue="Application.Files (1)" />
-        <item itemvalue="Application.tester (2)" />
       </list>
     </recent_temporary>
   </component>

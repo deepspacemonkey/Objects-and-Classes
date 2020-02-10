@@ -85,7 +85,7 @@ public class Tester {
 //
 //        data.studentList = new StudentList(data.students);
 //
-//        data.course = new Course("SDJ", data.students, "ASDF");
+//        data.course = new pack.Course("SDJ", data.students, "ASDF");
 //
 //        data.exam = new Exam("SDJ Exam", data.course);
 //

@@ -2,25 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd3d5f00-9fb8-4245-a25b-26bb5900f1ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BinaryFilesTest/.idea/BinaryFilesTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinaryFilesTest/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinaryFilesTest/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinaryFilesTest/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinaryFilesTest/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinaryFilesTest/BinaryFilesTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinaryFilesTest/src/Container.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinaryFilesTest/src/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinaryFilesTest/src/Exam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinaryFilesTest/src/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinaryFilesTest/src/StudentList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinaryFilesTest/src/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/binCourse.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/binExam.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/binStudents.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testExam3/src/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testExam3/src/BookList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testExam3/src/EBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testExam3/src/PrintedBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testExam3/testExam3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testexam1/src/Aparment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testexam1/src/AparmentComplex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testexam1/src/MyDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testexam1/src/Residence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testexam1/src/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testexam1/src/Tenant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testexam1/testexam1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryFilesTest/src/Container.java" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryFilesTest/src/Container.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryFilesTest/src/Course.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryFilesTest/src/Exam.java" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryFilesTest/src/Exam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryFilesTest/src/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryFilesTest/src/Tester.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,11 +48,12 @@
     <property name="create.test.in.the.same.root" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="13" />
     <property name="jdk.selected.PLUGIN_MODULE" value="IntelliJ IDEA Community Edition IC-192.6817.14" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/BinaryFilesTest/src/pack/subpack" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Exercise17_4/src" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">

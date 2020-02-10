@@ -50,6 +50,8 @@
       <module fileurl="file://$PROJECT_DIR$/Exercise9_05/Exercise9_05.iml" filepath="$PROJECT_DIR$/Exercise9_05/Exercise9_05.iml" />
       <module fileurl="file://$PROJECT_DIR$/InterfaceEX/InterfaceEX.iml" filepath="$PROJECT_DIR$/InterfaceEX/InterfaceEX.iml" />
       <module fileurl="file://$PROJECT_DIR$/Objects and Classes.iml" filepath="$PROJECT_DIR$/Objects and Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testExam3/testExam3.iml" filepath="$PROJECT_DIR$/testExam3/testExam3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testexam1/testexam1.iml" filepath="$PROJECT_DIR$/testexam1/testexam1.iml" />
     </modules>
   </component>
 </project>
